@@ -1,0 +1,38 @@
+<html>
+ <head> 
+  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+  <title>WebCat</title> 
+  <script src="js/jq.js"></script> 
+  <style>
+  
+  body{
+    boground
+    
+  }
+    .tou{
+      color:black;
+      font-size:30px;
+      text-align:center;
+      text-shadow:2px 2px 5px rgba(0,255,255,1)
+      }
+    .daohanglan{
+      color:white;
+      display:flex;
+      justify-content:space-around
+      }
+    .daohanglan div{
+      background-color:pink;
+      font-size:20px
+}
+      
+  </style> 
+ </head> 
+ <body id="v1" background="Ba.jpg"> 
+  <div id="v2" class="tou">诗篇收录网</div>
+  <div class ="daohanglan">
+   <div>首页</div>
+   <div>关于</div>
+   <div>基岩版</div>
+   <div>java版</div></div>  
+ </body>
+</html>
